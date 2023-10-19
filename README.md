@@ -7,6 +7,6 @@
 
 ## 欢迎游玩 bird！
 ### 最新版本为 V1.0.6
-<a href="https://aenf23.github.io/birdGamehome/1.0.6/">我现在就要玩 bird！</a>
+<a href="https://aenf23.github.io/1.0.6/">我现在就要玩 bird！</a>
 
 ### 仓库地址: <a href="https://www.github.com/aenf23/bird/">Go-></a> (MIT 授权)
