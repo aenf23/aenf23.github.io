@@ -1,0 +1,12 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  - jekyll-admin
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+title: ["Bird （Blazing Interstellar Rush-Dash）"]
+description: ["This is MindMaster's Game, BIRD."]
