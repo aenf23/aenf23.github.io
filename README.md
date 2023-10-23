@@ -12,7 +12,7 @@ BIRD (Blazing Interstellar Rush-Dash!)(Note: Formly known as Bird Flying Forward
 
 ### 仓库地址: <a href="https://www.github.com/aenf23/bird/">Go-></a> (MIT 授权)
 
-### 支持
+### 支持我们 / Support us
 * 我们的游戏采用 MIT 开放授权，欢迎各位 clone 和使用源码（但请附上 LICENSE）
 * 欢迎加入我们的开发！
 * 帮帮可怜的小鸟，来一位不错的美工吧！（狗头滑稽）
