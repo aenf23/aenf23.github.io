@@ -1,5 +1,7 @@
 # BIRD 越星巡游
-## Welcome to Mastermind's game, Blazing Interstellar Rush-Dash （Formly known as Bird Flying Forward）！
+## Welcome to Mastermind's game, BIRD!
+BIRD (Blazing Interstellar Rush-Dash!)
+Note: Formly known as Bird Flying Forward
 ### The newest version: V1.0.7
 <a href="https://aenf23.github.io/birdGamehome/1.0.7/">Play</a>
 
