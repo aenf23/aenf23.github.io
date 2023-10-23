@@ -2,15 +2,16 @@
 By BenjaminPan61618
 
 ## 1.能否公布一下开发人员呀？
-策划:aenf23 \
-程序:aenf23 \
-仓管:BenjaminPan61618 (GitHub) \
+* 策划:aenf23 \
+* 程序:aenf23 \
+* 仓管:BenjaminPan61618 (GitHub) \
        aenf23(GitHub,Gitee) \
-音效:BenjaminPan61618 \
-美工:(紧缺中) \
-UI设计:aenf23 \
-效果设计:(紧缺中) \
-测试:(持续招募中) \
+* 音效:BenjaminPan61618 \
+* 美工:(紧缺中) \
+* UI设计:aenf23 \
+* 效果设计:(紧缺中) \
+* 测试:(持续招募中) \
+* GitHub Pages 引导页维护: BenjaminPan61618, aenf23
 我们目前!急!需!美!术!人!员! \
 欢迎有意向的美工加入我们呀！
 
