@@ -11,7 +11,7 @@ By BenjaminPan61618
 * UI设计:aenf23 \
 * 效果设计:(紧缺中) \
 * 测试:(持续招募中) \
-* GitHub Pages 引导页维护: BenjaminPan61618, aenf23
+* GitHub Pages 引导页维护: BenjaminPan61618, aenf23 \
 我们目前!急!需!美!术!人!员! \
 欢迎有意向的美工加入我们呀！
 
