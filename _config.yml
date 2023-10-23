@@ -8,5 +8,5 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-remote-theme
-title: ["越星巡游 BIRD （Blazing Interstellar Rush-Dash）"]
-description: ["This is MasterMind's Game, BIRD."]
+title: ["越星巡游 / BIRD"]
+description: ["This is MasterMind's Game, BIRD (Blazing Interstellar Rush-Dash)."]
