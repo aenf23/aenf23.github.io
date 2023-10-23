@@ -2,7 +2,8 @@
 ## Welcome to Mastermind's game, BIRD!
 BIRD \
 (Blazing Interstellar Rush-Dash!) \
-(Note: Formly known as Bird Flying Forward)
+(Note: Formly known as Bird Flying Forward) \
+<a href="http://aenf23.github.io/qna_en_us">Q&A</a>
 ### The newest version: V1.0.7
 <a href="https://aenf23.github.io/birdGamehome/1.0.7/">Play</a>
 
