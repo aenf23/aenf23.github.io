@@ -6,6 +6,8 @@ BIRD \
 <a href="http://aenf23.github.io/qna_en_us">Q&A</a>
 ### The newest version: V1.0.7
 <a href="https://aenf23.github.io/birdGamehome/1.0.7/">Play</a>
+### The newest special version: V1.0.24
+<a href="https://aenf23.github.io/1.0.24/">Play</a>
 
 ### Repository: <a href="https://www.github.com/aenf23/bird/">Go-></a> (MIT License)
 
@@ -13,6 +15,9 @@ BIRD \
 <a href="http://aenf23.github.io/qna_zh_hans">游玩须知：答疑</a>
 ### 最新版本为 V1.0.7
 <a href="https://aenf23.github.io/birdGamehome/1.0.7/">我现在就要玩 BIRD！</a>
+### 最新特别版本为 V1.0.24
+<a href="https://aenf23.github.io/1.0.24/">我现在就要玩特别版 BIRD！</a>
+
 
 ### 仓库地址: <a href="https://www.github.com/aenf23/bird/">Go-></a> (MIT 授权)
 
