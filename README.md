@@ -34,4 +34,4 @@ BIRD \
 * 发现1处错误，<a href="https://aenf23.github.io/1024">点击查看</a>
 
 ## 更新日志
-* 更新日志 / Release Notes, <a href="https://aenf23.github.io/Releases">-></a>
+* 更新日志 / Release Notes <a href="https://aenf23.github.io/Releases">-></a>
