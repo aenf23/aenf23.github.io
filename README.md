@@ -19,9 +19,9 @@ BIRD \
 ### 经典版本为 V1.0.7
 <a href="https://aenf23.github.io/birdGamehome/1.0.7/">我现在就要玩 BIRD！</a>
 ### 最新特别版本为 V1.0.24
-<a href="https://aenf23.github.io/1.0.24/">我现在就要玩特别版 BIRD！</a>
+<a href="https://aenf23.github.io/1.0.24/">我现在就要玩特别版的 BIRD！</a>
 ### 最新版本为 V1.0.8
-<a href="https://aenf23.github.io/birdGamehome/birdGamenew1.0.8/">Play</a>
+<a href="https://aenf23.github.io/birdGamehome/birdGamenew1.0.8/">我现在就要玩 BIRD！</a>
 
 ### 仓库地址: <a href="https://www.github.com/aenf23/bird/">Go-></a> (MIT 授权)
 
