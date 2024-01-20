@@ -1,3 +1,7 @@
+---
+layout: default
+title: BIRD 越星巡游
+---
 # BIRD 越星巡游
 ## Welcome to Mastermind's game, BIRD!
 BIRD \
