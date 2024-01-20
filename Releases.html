@@ -1,0 +1,14 @@
+---
+title:更新日志 / Release Notes
+---
+
+<h1>本站最近更新内容：</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
