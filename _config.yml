@@ -1,3 +1,5 @@
+baseurl: /
+markdown: kramdown
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
