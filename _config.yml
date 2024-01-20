@@ -8,12 +8,12 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-remote-theme
-title: ["越星巡游 / BIRD"]
+title: "越星巡游 / BIRD"
 description: ["This is MasterMind's Game, BIRD (Blazing Interstellar Rush-Dash)."]
 
 nav:
-- name:Home
-  link:/
-- name:Game
-  link:/birdGamehome/1.0.7/
+- name: Home
+  link: /
+- name: Game
+  link: /birdGamehome/1.0.7/
 
