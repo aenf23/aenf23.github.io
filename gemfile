@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+gem 'jekyll-remote-includes'
+gem 'jekyll-include-remote'
 source "https://rubygems.org"
-
 gemspec
